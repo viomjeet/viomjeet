@@ -1,36 +1,46 @@
-# Hi there, I'm Vikas Kumar 👋
+<div align="center">
+  <h1>Hi there, I'm Vikas Kumar 👋</h1>
+  <p><strong>Senior Frontend Engineer | Architecture & Design Systems</strong></p>
+  <p>React.js • Next.js • TypeScript • Micro-Frontends • Full-Stack Integrations</p>
 
-### Immediate Joiner | Senior Frontend Engineer (6+ Yrs React, 13 Yrs Total Web)
-**React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • SCSS • Node.js • .NET REST API Integration**
+  <p>
+    <a href="mailto:viomjeet@gmail.com"><img src="https://img.shields.io/badge/Email-viomjeet%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+    <a href="https://github.com/viomjeet"><img src="https://img.shields.io/badge/GitHub-viomjeet-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <img src="https://komarev.com/ghpvc/?username=viomjeet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
 
----
-
-### 👨‍💻 About Me
-- 💼 **Experience:** 13+ years in web development with 6+ years focused on building scalable enterprise web applications using React.js and TypeScript.
-- 🚀 **Core Expertise:** Enterprise frontend architecture, design systems, complex state orchestration, and high-performance Web Vitals tuning.
-- 🔌 **API & Backend Integration:** Seamless contract integration with **ASP.NET Core REST APIs** and hands-on experience with **Node.js / Express.js**.
-- 📍 **Availability:** **Immediate Joiner** | Open to Remote, Hybrid, or On-site roles in Delhi NCR.
-
----
-
-### 🛠️ Technical Arsenal
-
-- **Frontend Core:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, SCSS, CSS3, Responsive Design
-- **State & Data Handling:** Redux Toolkit, TanStack Query, Context API, Custom Hooks, RESTful APIs, JSON
-- **UI & Design Systems:** Component Libraries (35+ reusable components), Bootstrap, Material UI, CSS Grid / Flexbox
-- **Backend & Web Services:** .NET Core API Integration, Node.js, Express.js, GraphQL basics
-- **Build & DevOps:** Vite, Webpack, Git, GitHub Actions, Azure DevOps, Web Vitals Optimization
+  <p>🚀 <strong>Status:</strong> Immediate Joiner | Delhi NCR / Remote / Hybrid</p>
+</div>
 
 ---
 
-### 📌 Highlights
-- 🔭 **Currently focused on:** Advanced micro-frontends, high-performance UI components, and modern full-stack workflows.
-- 💬 **Ask me about:** Large-scale React architectures, migrating legacy systems to modern TypeScript stacks, and cross-team API contract design.
-- ⚡ **Fun fact:** I enjoy audio electronics, amplifiers, and hardware tinkering when I am away from code!
+### ⚡ Executive Summary
+
+- **13+ Years** in web engineering with **6+ years** specializing in enterprise **React.js & TypeScript** architectures.
+- Deep expertise in **Design Systems**, state orchestration, and **Core Web Vitals** performance optimization.
+- Proven track record integrating complex API contracts across **.NET Core** and **Node.js** ecosystems.
+- Active focus on **Micro-Frontends (Webpack Module Federation)** and data-intensive analytical dashboards.
 
 ---
 
-### 📬 Get in Touch
-- **Email:** [viomjeet@gmail.com](mailto:viomjeet@gmail.com)
-- **GitHub:** [viomjeet](https://github.com/viomjeet)
-- **LinkedIn:** [Vikas Kumar on LinkedIn](https://www.linkedin.com/) *(Add your LinkedIn link here)*
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend Core** | React.js, Next.js, TypeScript, JavaScript (ES6+), Modern HTML5/CSS3, SCSS |
+| **State & Data Flow** | Redux Toolkit, TanStack Query, Context API, REST APIs, GraphQL |
+| **UI & Systems** | Design Systems, Micro-Frontends, Tailwind CSS, Material UI, Component Libraries |
+| **Backend & APIs** | Node.js, Express.js, ASP.NET Core API Integration, MongoDB |
+| **Tooling & Build** | Webpack 5, Vite, Git, GitHub Actions, Azure DevOps, Performance Profiling |
+
+---
+
+### 📊 GitHub Activity & Visitor Stats
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=viomjeet&label=TOTAL+PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Total Profile Views" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=viomjeet&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viomjeet&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
