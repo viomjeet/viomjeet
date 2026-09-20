@@ -6,7 +6,7 @@
   <p>
     <a href="mailto:viomjeet@gmail.com"><img src="https://img.shields.io/badge/Email-viomjeet%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
     <a href="https://github.com/viomjeet"><img src="https://img.shields.io/badge/GitHub-viomjeet-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/viomjeet"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
     <img src="https://komarev.com/ghpvc/?username=viomjeet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 
