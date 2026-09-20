@@ -41,6 +41,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=viomjeet&label=TOTAL+PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Total Profile Views" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=viomjeet&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viomjeet&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  ![Contribution Snake](https://github.com)
 </div>
