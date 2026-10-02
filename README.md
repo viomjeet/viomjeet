@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Vikas Kumar 👋</h1>
-  <p><strong>Senior Frontend Engineer | Architecture & Design Systems</strong></p>
-  <p>React.js • Next.js • TypeScript • Micro-Frontends • Full-Stack Integrations</p>
+  <h1>Hi there, I'm Vikas Kumar</h1>
+  <p><strong>Senior Software Engineer | Architecture & Design Systems</strong></p>
+  <p>React.js • Next.js • TypeScript • Full-Stack Integrations</p>
 
   <p>
     <a href="mailto:viomjeet@gmail.com"><img src="https://img.shields.io/badge/Email-viomjeet%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
@@ -12,30 +12,6 @@
   <p>🚀 <strong>Status:</strong> Immediate Joiner | Delhi NCR / Remote / Hybrid</p>
 </div>
 
----
-
-### ⚡ Executive Summary
-
-- **13+ Years** in web engineering with **6+ years** specializing in enterprise **React.js & TypeScript** architectures.
-- Deep expertise in **Design Systems**, state orchestration, and **Core Web Vitals** performance optimization.
-- Proven track record integrating complex API contracts across **.NET Core** and **Node.js** ecosystems.
-- Active focus on **Micro-Frontends (Webpack Module Federation)** and data-intensive analytical dashboards.
-
----
-
-### 🛠️ Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend Core** | React.js, Next.js, TypeScript, JavaScript (ES6+), Modern HTML5/CSS3, SCSS |
-| **State & Data Flow** | Redux Toolkit, TanStack Query, Context API, REST APIs, GraphQL |
-| **UI & Systems** | Design Systems, Micro-Frontends, Tailwind CSS, Material UI, Component Libraries |
-| **Backend & APIs** | Node.js, Express.js, ASP.NET Core API Integration, MongoDB |
-| **Tooling & Build** | Webpack 5, Vite, Git, GitHub Actions, Azure DevOps, Performance Profiling |
-
----
-
-### 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viomjeet&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
