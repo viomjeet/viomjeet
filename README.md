@@ -88,11 +88,6 @@ alt="Notion"/> -->
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viomjeet&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viomjeet&layout=compact&hide_border=true" alt="Top Languages" height="170" />
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=viomjeet&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
-  <br /><br />
+<div align="center"> 
   <img src="https://raw.githubusercontent.com/viomjeet/viomjeet/output/github-snake.svg" alt="Contribution Snake" />
 </div>
