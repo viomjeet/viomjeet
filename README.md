@@ -1,5 +1,5 @@
-<div align="center">
-  <h1 style="font-size:40px">Vikas Kumar</h1>
+<div align="left">
+  <h1>Vikas Kumar</h1>
   <p><strong>Senior Software Engineer | Architecture & Design Systems</strong></p>
   <p>React.js • Next.js • TypeScript • Full-Stack Integrations</p>
 
